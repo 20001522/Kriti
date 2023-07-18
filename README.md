@@ -1,28 +1,3 @@
-Student Number as per your student card: 
-
-KATKAM JAIKRITI 			20001522 
-
-COURSE TITLE :  LEVEL 9 QQI MASTER OF BUSINESS ADMINISTRATION 
-MODULE CODE:  B9MG119_2223_TMD3 
-LECTURER NAME:  PAUL LAIRD 
-ASSIGNMENT TITLE: Cloud Proposals for SwiftServe Logistics
-
-
-
-
-
-
-WORD COUNT: 996 WORDS
-
-
-
-
-
-
-
-
-
-
 
 
 Introduction
