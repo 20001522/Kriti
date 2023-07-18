@@ -87,15 +87,16 @@ Finally, SwiftServe Logistics, a tiny logistics firm, sees enormous opportunitie
 
 Reference List
 --------------
-Yuan, L.X., Shuong, C.W., Wei, K.Y., Qian, A.C.Y. and Shah, I.A., 2022. Business Environment in the Context of Cloud Computing: A Review. International Journal of Emerging Multidisciplinaries: Computer Science & Artificial Intelligence, 1(2), pp.119-133.Yuan, L.X., Shuong, C.W., Wei, K.Y., Qian, A.C.Y. and Shah, I.A., 2022. Business Environment in the Context of Cloud Computing: A Review. International Journal of Emerging Multidisciplinaries: Computer Science & Artificial Intelligence, 1(2), pp.119-133.
-Yenugula, M., Sahoo, S. and Goswami, S., 2023. Cloud computing in supply chain management: Exploring the relationship. Management Science Letters, 13(3), pp.193-210.
-Talha, M., Sohail, M. and Hajji, H., 2020. Analysis of research on amazon AWS cloud computing seller data security. International Journal of Research in Engineering Innovation, 4(3), pp.131-136.
-Mungoli, N., 2023. Scalable, Distributed AI Frameworks: Leveraging Cloud Computing for Enhanced Deep Learning Performance and Efficiency. arXiv preprint arXiv:2304.13738.
-Kabir, H.D., Khosravi, A., Mondal, S.K., Rahman, M., Nahavandi, S. and Buyya, R., 2021. Uncertainty-aware decisions in cloud computing: Foundations and future directions. ACM Computing Surveys (CSUR), 54(4), pp.1-30.
-Alouffi, B., Hasnain, M., Alharbi, A., Alosaimi, W., Alyami, H. and Ayaz, M., 2021. A systematic literature review on cloud computing security: threats and mitigation strategies. IEEE Access, 9, pp.57792-57807.
-Abdalla, P.A. and Varol, A., 2019, June. Advantages to disadvantages of cloud computing for small-sized business. In 2019 7th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-6). IEEE.
-Abdulghani, H.A., Nijdam, N.A., Collen, A. and Konstantas, D., 2019. A study on security and privacy guidelines, countermeasures, threats: IoT data at rest perspective. Symmetry, 11(6), p.774.
-Sami, H., Mourad, A., Otrok, H. and Bentahar, J., 2021. Demand-driven deep reinforcement learning for scalable fog and service placement. IEEE Transactions on Services Computing, 15(5), pp.2671-2684.
+- Yuan, L.X., Shuong, C.W., Wei, K.Y., Qian, A.C.Y. and Shah, I.A., 2022. Business Environment in the Context of Cloud Computing: A Review. International Journal of Emerging Multidisciplinaries: Computer Science & Artificial Intelligence, 1(2), pp.119-133.Yuan, L.X., Shuong, C.W., Wei, K.Y., Qian, A.C.Y. and Shah, I.A., 2022. Business Environment in the Context of Cloud Computing: A Review. International Journal of Emerging Multidisciplinaries: Computer Science & Artificial Intelligence, 1(2), pp.119-133.
+
+- Yenugula, M., Sahoo, S. and Goswami, S., 2023. Cloud computing in supply chain management: Exploring the relationship. Management Science Letters, 13(3), pp.193-210.
+- Talha, M., Sohail, M. and Hajji, H., 2020. Analysis of research on amazon AWS cloud computing seller data security. International Journal of Research in Engineering Innovation, 4(3), pp.131-136.
+- Mungoli, N., 2023. Scalable, Distributed AI Frameworks: Leveraging Cloud Computing for Enhanced Deep Learning Performance and Efficiency. arXiv preprint arXiv:2304.13738.
+- Kabir, H.D., Khosravi, A., Mondal, S.K., Rahman, M., Nahavandi, S. and Buyya, R., 2021. Uncertainty-aware decisions in cloud computing: Foundations and future directions. ACM Computing Surveys (CSUR), 54(4), pp.1-30.
+- Alouffi, B., Hasnain, M., Alharbi, A., Alosaimi, W., Alyami, H. and Ayaz, M., 2021. A systematic literature review on cloud computing security: threats and mitigation strategies. IEEE Access, 9, pp.57792-57807.
+- Abdalla, P.A. and Varol, A., 2019, June. Advantages to disadvantages of cloud computing for small-sized business. In 2019 7th International Symposium on Digital Forensics and Security (ISDFS) (pp. 1-6). IEEE.
+- Abdulghani, H.A., Nijdam, N.A., Collen, A. and Konstantas, D., 2019. A study on security and privacy guidelines, countermeasures, threats: IoT data at rest perspective. Symmetry, 11(6), p.774.
+- Sami, H., Mourad, A., Otrok, H. and Bentahar, J., 2021. Demand-driven deep reinforcement learning for scalable fog and service placement. IEEE Transactions on Services Computing, 15(5), pp.2671-2684.
 
 
 Path to google link - https://docs.google.com/document/d/102La08GAcoJ0U-Aa2xdxDkwi7UA_wyxRCxv99-EwQAY/edit?pli=1
